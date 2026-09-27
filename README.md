@@ -10,7 +10,7 @@ The app allows users to set an alarm using a time picker and cancel the schedule
 
 ## 📱 Project Overview
 
-**Project Name:** Alarm App  
+**Project Name:** Alarm App 
 **Platform:** Android  
 **IDE:** Android Studio  
 **Language:** Kotlin  
