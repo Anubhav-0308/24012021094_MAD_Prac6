@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/6d50bf78-8e41-4dcc-a0a2-b049d4e9680e
+
 # ⏰ Alarm App
 
 An Android Alarm application developed using **Kotlin** and **Android Studio** as a practical/academic project for **U.V. Patel College of Engineering, Ganpat University**.
